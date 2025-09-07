@@ -1,5 +1,9 @@
 # [Hysteria 2](https://github.com/apernet/hysteria) 一键脚本 安装指南
 
+安装签名www.bing.com停止卸载
+```
+apt update -y && apt install -y curl && apt install -y socat
+```
 hysteria2 纯净版一键安装
 
 ```
